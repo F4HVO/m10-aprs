@@ -19,3 +19,6 @@ To Flash :
 ![Top view](pictures/top.png)
 ![Bottom view](pictures/bottom.png)
 ![Connector close up](pictures/jtag.png)
+
+Known issues :
+- Works OK when powered with 5V, things seem to happen quicker at 6V (when using batteries).
